@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/slpirate/Commons/programming/flutter/quadratic_calculator/android/app/.cxx/RelWithDebInfo/32bd4h3r/armeabi-v7a'
+ninja: no work to do.

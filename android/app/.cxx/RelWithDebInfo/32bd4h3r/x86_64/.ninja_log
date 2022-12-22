@@ -1,0 +1,5 @@
+# ninja log v5
+1	1674	1666453070	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/CalApi.cpp.o	83233a6089eef4e2
+2	1755	1666453071	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/exception.cpp.o	d2ff6cb96e6549c5
+2	3530	1666453072	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/Quadcal.cpp.o	688764d26372f706
+3531	5076	1666453074	/home/slpirate/Commons/programming/flutter/quadratic_calculator/build/app/intermediates/cxx/RelWithDebInfo/32bd4h3r/obj/x86_64/libquadcal.so	890bc55f7afffa3f

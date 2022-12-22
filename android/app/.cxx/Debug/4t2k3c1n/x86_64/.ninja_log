@@ -1,0 +1,9 @@
+# ninja log v5
+1	1719	1663932038	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/CalApi.cpp.o	d23ba96a393c65b9
+1	1776	1663932038	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/exception.cpp.o	aff1ccf1d25bf7d8
+1	2273	1663932039	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/Quadcal.cpp.o	3e53322e21d7e91e
+2273	3358	1663932040	/home/slpirate/Commons/programming/flutter/quadratic_calculator/build/app/intermediates/cxx/Debug/4t2k3c1n/obj/x86_64/libquadcal.so	1fa794b460ca4f37
+27	2190	1664036513	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/exception.cpp.o	aff1ccf1d25bf7d8
+27	2231	1664036513	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/CalApi.cpp.o	d23ba96a393c65b9
+28	2664	1664036513	CMakeFiles/quadcal.dir/home/slpirate/Commons/programming/flutter/quadratic_calculator/lib/Quadcal/src/Quadcal.cpp.o	3e53322e21d7e91e
+2664	4065	1664036514	/home/slpirate/Commons/programming/flutter/quadratic_calculator/build/app/intermediates/cxx/Debug/4t2k3c1n/obj/x86_64/libquadcal.so	1fa794b460ca4f37

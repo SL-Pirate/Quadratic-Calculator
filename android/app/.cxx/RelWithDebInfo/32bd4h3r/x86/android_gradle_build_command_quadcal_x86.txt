@@ -1,0 +1,7 @@
+Executable : /home/slpirate/.Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/slpirate/Commons/programming/flutter/quadratic_calculator/android/app/.cxx/RelWithDebInfo/32bd4h3r/x86
+quadcal
+jvmArgs : 
+
