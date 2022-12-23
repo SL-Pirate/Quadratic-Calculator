@@ -115,6 +115,7 @@ class _HomePageState extends State<HomePage> {
     QuadCal cal = QuadCal();
     String out = cal.run(a, b, c);
     setState(() {
+      FocusScope.of(context).unfocus();
       output = out;
     });
   }

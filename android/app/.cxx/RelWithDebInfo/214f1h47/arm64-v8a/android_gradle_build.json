@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/slpirate/.Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/app/.cxx/RelWithDebInfo/214f1h47/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/slpirate/.Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/app/.cxx/RelWithDebInfo/214f1h47/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "quadcal::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "quadcal",
+      "output": "/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/build/app/intermediates/cxx/RelWithDebInfo/214f1h47/obj/arm64-v8a/libquadcal.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/slpirate/.Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/slpirate/.Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

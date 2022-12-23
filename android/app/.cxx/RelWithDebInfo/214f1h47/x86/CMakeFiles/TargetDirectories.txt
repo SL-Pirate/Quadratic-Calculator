@@ -1,0 +1,3 @@
+/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/app/.cxx/RelWithDebInfo/214f1h47/x86/CMakeFiles/rebuild_cache.dir
+/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/app/.cxx/RelWithDebInfo/214f1h47/x86/CMakeFiles/edit_cache.dir
+/home/slpirate/Commons/programming/flutter/Quadratic-Calculator/android/app/.cxx/RelWithDebInfo/214f1h47/x86/CMakeFiles/quadcal.dir
